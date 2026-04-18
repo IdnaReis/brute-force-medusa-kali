@@ -267,21 +267,14 @@ Registrar testes e recomendações é essencial para o Blue Team implementar con
 
 ---
 
+
 <div align="center">
 
-**Feito com 🔐 para a comunidade de Cybersecurity**
+Feito com 🔐 para a comunidade de Cybersecurity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idna-reis)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdnaReis)
 [![DIO](https://img.shields.io/badge/DIO-0080FF?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/)
 
 </div>
-
-Como colar no GitHub:
-
-Abra o repositório → clique em README.md → clique no lápis ✏️
-Seleciona tudo com Ctrl+A e deleta
-Cola o conteúdo acima com Ctrl+V
-Clica em "Commit changes" → "Commit directly to main" → "Commit changes"
-
 
