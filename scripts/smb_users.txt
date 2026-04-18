@@ -1,0 +1,4 @@
+msfadmin
+service
+user
+administrator
